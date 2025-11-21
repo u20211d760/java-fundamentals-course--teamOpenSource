@@ -1,6 +1,14 @@
 # Java Fundamentals Course — Team OpenSource
 
 Este repositorio contiene el material utilizado durante el curso de Fundamentos de Java, incluyendo enlaces al código y a los videos explicativos de cada lección.
+## Resumen del Curso
+Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de la programación con Java, incluyendo
+programación orientada a objetos. **¡No requiere descargas!** Solo abre tu navegador web.
+**Duración total**: ~60 minutos
+**Público Objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
+**Prerrequisitos**: Ninguno
+**Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
+**📂 Repositorio de Código Fuente**: https://github.com/u20211d760/java-fundamentals-course--teamOpenSource
 
 ## 📘 Lección 1: Introducción a la Programación
 
@@ -72,4 +80,12 @@ Aquí tienes algunas recomendaciones para continuar creciendo:
 
 - Mantén siempre la curiosidad y las ganas de aprender.
 
-  
+**¡Gracias por completar el curso!**
+---
+## 👥 Elaboración
+Universidad Peruana de Ciencias Aplicadas
+Carrera de Ingeniería de Software
+Período 202520
+1ASI0729 Desarrollo de Aplicaciones Open Source
+NRC [7394]
+Por Paico Calderon, July Zelmira
